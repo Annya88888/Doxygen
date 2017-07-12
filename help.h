@@ -1,0 +1,2 @@
+void tell();
+void cry();
